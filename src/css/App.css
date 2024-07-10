@@ -222,6 +222,9 @@ body {
 
 .scrollToTop:hover {
 	opacity: 1;
+	background-color: rgb(99 102 241 / var(--tw-bg-opacity));
+	color: white
+
 }
 
 @keyframes fadeIn {
